@@ -1,0 +1,24 @@
+ Equals     )       
+ 060000bc   %    °   
+ GetHashCode    )    °   
+ 060000bd   %    h  
+ GetType    )    h  
+ 060000be   %      
+ ToString   )      
+ 060000bf  " %    Ì  
+ Create__Instance__     )    Ì  
+ 060000c0  " %      
+ Dispose__Instance__    )      
+ 060000c1   %       
+ .ctor  )       
+ 060000c2   %        Main   )        06000001   %        .ctor  )        06000002   %        OnCreateMainForm   )        06000003   %       
+ Dispose    )       
+ 0600008f  " %    Ğ  
+ InitializeComponent    )    Ğ  
+ 06000090   %      
+ Form3_Load     )      
+ 06000095   %    (  
+ Timer1_Tick    )    (  
+ 06000096  " %    Ä  
+ ProgressBar1_Click     )    Ä  
+ 06000097   %        get_Settings
